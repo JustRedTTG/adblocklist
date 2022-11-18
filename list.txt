@@ -11,8 +11,8 @@ media.net
 adservetx.media.net
 
 # Doubleclick.net
-doubleclick.net/
-ad.doubleclick.net/
+doubleclick.net
+ad.doubleclick.net
 static.doubleclick.net
 m.doubleclick.net
 mediavisor.doubleclick.net
@@ -20,8 +20,8 @@ mediavisor.doubleclick.net
 # FastClick
 fastclick.com
 fastclick.net
-media.fastclick.net/
-cdn.fastclick.net/
+media.fastclick.net
+cdn.fastclick.net
 
 # Amazon
 adtago.s3.amazonaws.com
@@ -44,11 +44,11 @@ api-hotjar.com
 hotjar-analytics.com
 
 # MouseFlow
-mouseflow.com/
+mouseflow.com
 a.mouseflow.com
 
 # FreshMarketer
-freshmarketer.com/
+freshmarketer.com
 
 # Luckyorange
 luckyorange.com
