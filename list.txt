@@ -1,0 +1,181 @@
+# Google Ads
+pagead2.googlesyndication.com
+ads.google.com
+adservice.google.com
+pagead2.googleadservices.com
+googleadservices.com
+
+# Media.net
+static.media.net
+media.net
+adservetx.media.net
+
+# Doubleclick.net
+doubleclick.net/
+ad.doubleclick.net/
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+
+# FastClick
+fastclick.com
+fastclick.net
+media.fastclick.net/
+cdn.fastclick.net/
+
+# Amazon
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
+amazonclix.com
+assoc-amazon.com
+
+# Google Analytics
+google-analytics.com
+ssl.google-analytics.com
+
+# Hotjar
+hotjar.com
+static.hotjar.com
+api-hotjar.com
+hotjar-analytics.com
+
+# MouseFlow
+mouseflow.com/
+a.mouseflow.com
+
+# FreshMarketer
+freshmarketer.com/
+
+# Luckyorange
+luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+upload.luckyorange.net
+cs.luckyorange.net
+settings.luckyorange.net
+
+# Stats WP Plugin
+stats.wp.com
+
+# Bugsnag
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+
+# Sentry
+browser.sentry-cdn.com
+app.getsentry.com
+
+# Facebook
+pixel.facebook.com
+analytics.facebook.com
+ads.facebook.com
+an.facebook.com
+
+# Twitter
+ads-twitter.com
+static.ads-twitter.com
+ads-api.twitter.com
+advertising.twitter.com
+
+# LinkedIn
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
+# Pinterest
+ads.pinterest.com
+log.pinterest.com
+ads-dev.pinterest.com
+analytics.pinterest.com
+trk.pinterest.com
+widgets.pinterest.com
+
+# Reddit
+ads.reddit.com
+d.reddit.com
+rereddit.com
+events.redditmedia.com
+
+# YouTube
+ads.youtube.com
+youtube.cleverads.vn
+
+# TikTok
+analytics.tiktok.com
+ads.tiktok.com
+analytics-sg.tiktok.com
+ads-sg.tiktok.com
+
+# Yahoo
+ads.yahoo.com
+global.adserver.yahoo.com
+analytics.yahoo.com
+ads.yap.yahoo.com
+
+# Yandex
+appmetrica.yandex.com
+yandexadexchange.net
+analytics.mobile.yandex.net
+extmaps-api.yandex.net
+adsdk.yandex.ru
+
+# Xiaomi
+api.ad.xiaomi.com
+app.chat.xiaomi.net
+data.mistat.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+globalapi.ad.xiaomi.com
+www.cdn.ad.xiaomi.com
+tracking.miui.com
+sa.api.intl.miui.com
+tracking.miui.com
+tracking.intl.miui.com
+tracking.india.miui.com
+tracking.rus.miui.com
+
+# Huawei
+metrics.data.hicloud.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics3.data.hicloud.com
+metrics4.data.hicloud.com
+metrics5.data.hicloud.com 
+logservice.hicloud.com
+logservice1.hicloud.com
+metrics-dra.dt.hicloud.com
+logbak.hicloud.com
+
+# OnePlus
+analytics.oneplus.cn
+click.oneplus.cn
+click.oneplus.com
+open.oneplus.net
+
+# Samsung
+ad.samsungadhub.com
+samsungadhub.com
+samsungads.com
+smetrics.samsung.com
+nmetrics.samsung.com
+samsung-com.112.2o7.net
+business.samsungusa.com
+analytics.samsungknox.com
+bigdata.ssp.samsung.com
+analytics-api.samsunghealthcn.com
+config.samsungads.com
+
+# Apple
+metrics.apple.com
+securemetrics.apple.com
+supportmetrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
